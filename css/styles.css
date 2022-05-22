@@ -1,9 +1,9 @@
 :root {
     --primary-text-color: #212121;
     --secondary-text-color: #757575;
-    --accent-color: #2196F3;
+    --accent-color: #2196f3;
     --active-text-color: #ffffff;
-    --bkg-button-color: #F5F4FA;
+    --bkg-button-color: #f5f4fa;
     --footer-contacts-color: rgba(255, 255, 255, 0.6);
 }
 
@@ -19,8 +19,8 @@
 /* Logo */
 
 .logo-web {
-    color: #2196F3;
-    font-family: 'Raleway';
+    color: #2196f3;
+    font-family: 'raleway';
     text-decoration: none;
         font-weight: 700;
         font-size: 26px;
@@ -88,7 +88,7 @@ color: var(--accent-color)
 /* Footer */
 
 .footer {
-    background-color: #2F303A;
+    background-color: #2f303a;
         font-size: 14px;
         line-height: 2.1;
         letter-spacing: 0.03em;
@@ -128,7 +128,7 @@ color: var(--accent-color)
 /* Hero */
 
 .hero {
-    background-color: #2F303A;;
+    background-color: #2f303a;;
 }
 
 .hero-text {
@@ -161,7 +161,7 @@ color: var(--accent-color)
 /* Employees */
 
 .employees {
-    background-color: #F5F4FA;
+    background-color: #f5f4fa;
 }
 
 .names {

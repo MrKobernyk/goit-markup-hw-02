@@ -202,7 +202,7 @@ color: var(--accent-color)
 
 .portfolio-link {
     color: var(--primary-text-color);
-    text-decoration: none;    
+    text-decoration: none;          
 }
 
 .portfolio-name {
@@ -212,14 +212,15 @@ color: var(--accent-color)
         letter-spacing: 0.06em;
 }
 
-a.portfolio-link:portfolio-type {
-    color: var(--secondary-text-color)
-        font-size: 16px;
-        line-height: 1.9;
-        letter-spacing: 0.03em;;
+.portfolio-type {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
 
-.portfolio-name:hover,
-.portfolio-name:focus {
+.portfolio-link:hover,
+.portfolio-link:focus {
     color: var(--accent-color);
 }
